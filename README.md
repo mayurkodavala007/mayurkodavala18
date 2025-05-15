@@ -1,3 +1,4 @@
 # mayurkodavala18
-This is my first git repository
-author - mayur
+This is my first git repository.
+<br>
+Author - mayur
